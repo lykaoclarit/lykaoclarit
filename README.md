@@ -5,7 +5,7 @@
 - 💻 I graduated last June 2021 with a <b>Computer Engineering degree from Jose Rizal University.</b>
 <br>
 I am slowly building my portfolio for now, and polishing my personal site. ❤️ <br><br>
-<b><em>“Getting 1 percent better every day counts for a lot in the long-run.” - James Clear, Atomic Habits<b>
+<b><em>“Getting 1 percent better every day counts for a lot in the long-run.” </em>- James Clear, Atomic Habits<b>
 
 
 <!---
