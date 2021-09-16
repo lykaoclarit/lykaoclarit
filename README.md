@@ -1,6 +1,6 @@
 <b>👋 Hi, I’m @lykaoclarit</b>
 - 👀 I’m interested in Web Development, <b>mostly on the Front-end side for now.</b>
-- 🌱 I’m currently learning Javascript and Python.
+- 🌱 I’m currently learning Advance Javascript and Python.
 - 💻 I graduated last June 2021 with a <b>Computer Engineering degree from Jose Rizal University.</b>
 <br>
 I am slowly building my portfolio for now, and polishing my personal site. ❤️ <br><br>
