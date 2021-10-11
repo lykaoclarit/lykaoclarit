@@ -1,4 +1,4 @@
-<b>👋 Hi, I’m @lykaoclarit</b>
+<b>👋 Hi, I’m Lyka</b>
 - 👀 I’m interested in Web Development, <b>mostly on the Front-end side for now.</b>
 - 🌱 I’m currently learning Javascript (currently with React.js) and Python (Beginner level).
 - 💻 I graduated last June 2021 with a <b>Computer Engineering degree from Jose Rizal University.</b>
