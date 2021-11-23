@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development, <b>mostly on the Front-end side for now.</b>
 - 🌱 I’m currently learning Javascript (currently with React.js) and Python (Beginner level).
 - 💻 I graduated last June 2021 with a <b>Computer Engineering degree from Jose Rizal University.</b>
-- ✨ Got a new job, resuming my studies on November.
 <br>
 I am slowly building my portfolio for now, and polishing my personal site. ❤️ <br><br>
 <b><em>“Getting 1 percent better every day counts for a lot in the long-run.” </em></b><br>- James Clear, Atomic Habits
